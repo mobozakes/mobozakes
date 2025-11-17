@@ -15,7 +15,7 @@
 👤 Abdou (aka @abdou-da0wew / @Abdou-rx)
 
 > age
-🧒 14 years old
+🧒 29 years old
 
 > power
 ⚡ Fearless fullstack dev, Terminal-native, Node.js monster
