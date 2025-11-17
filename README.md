@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @Abdou-rx</h1>
+<h1 align="center">👋 Hi, I’m @mobozakes</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
 
 ```bash
 > whoami
-👤 Abdou (aka @abdou-da0wew / @Abdou-rx)
+👤 Abdou ( @mobozakes)
 
 > age
 🧒 29 years old
@@ -21,7 +21,7 @@
 ⚡ Fearless fullstack dev, Terminal-native, Node.js monster
 
 > current project
-🧠 Divee – Smart AI Assistant (مساعد شخصي ذكي في كل حاجة تقريبًا) (It's done)
+🧠 Divee – Smart AI Assistant  ) (It's done)
 
 > motto
 💥 Build bots. Break limits. Repeat.
